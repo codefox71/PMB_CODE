@@ -1,0 +1,9 @@
+pr["Welcome to the Text-Based GUI"]
+pr["----------------------------"]
+
+name = inp["Enter your name: "]
+pr["Hello, " + name + "!"]
+option = inp["Select an option (1-3): 1. Print 'Hello', 2. Print 'World', 3. Exit: "]
+pr["Hello"]
+pr["----------------------------"]
+pr["Thank you for using the Text-Based GUI"]
